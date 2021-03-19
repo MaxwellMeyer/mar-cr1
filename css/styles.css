@@ -51,18 +51,39 @@
   opacity: 85%;
 }
 .container .section .content h2 {
-  background: rgb(153, 66, 252);
+  background: rgb(63, 0, 136);
   color: cyan;
   font-weight: 300;
-  display: inline-block;
+  display: flex;
   padding: 10px 20px;
   font-size: 1.5em;
+  border-radius: 20px;
 }
-.container .section .content p {
-  background: rgb(25, 1, 113);
-  color: rgb(254, 0, 0);
+.container .section .content {
+  background: rgb(28, 18, 65);
+  color: rgb(217, 184, 255);
   font-weight: 100;
   padding: 10px 20px;
   font-size: .75em;
   margin-top: 15px;
+  border-radius: 15px;
+}
+.container .section .content li{
+  background: rgb(25, 1, 113);
+  color: rgb(0, 254, 127);
+  font-weight: 100;
+  font-size: .75em;
+  margin-top: 15px;
+  border-radius: 15px;
+  padding-left: 275px;
+  padding-right: 275px;
+}
+.zzz {
+  color: yellow;
+}
+.life {
+  color: orange;
+}
+.wa {
+  color: greenyellow;
 }
