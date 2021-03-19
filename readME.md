@@ -26,7 +26,7 @@ This project will provide some information about myself and my interests/motivat
 
 
 1. Follow link to my Github repo and/or GH-Pages.
-2. Link to GH-Pages is found [here]()
+2. Link to GH-Pages is found [here](https://maxwellmeyer.github.io/mar-cr1/)
 
 
 ## Known Bugs
