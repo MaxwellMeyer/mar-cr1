@@ -47,7 +47,7 @@
   position: absolute;
   bottom: 450px;
   left: 50px;
-  max-width: 700px;
+  max-width: 50vw;
   opacity: 85%;
 }
 .container .section .content h2 {
@@ -61,15 +61,15 @@
 }
 .container .section .content {
   background: rgb(28, 18, 65);
-  color: rgb(217, 184, 255);
+  color: rgb(70, 134, 236);
   font-weight: 100;
   padding: 10px 20px;
   font-size: .75em;
   margin-top: 15px;
   border-radius: 15px;
 }
-.container .section .content li{
-  background: rgb(25, 1, 113);
+.container .section .content li ol ul{
+  background: rgb(173, 0, 144);
   color: rgb(0, 254, 127);
   font-weight: 100;
   font-size: .75em;
@@ -86,4 +86,7 @@
 }
 .wa {
   color: greenyellow;
+}
+.prac {
+  color: rgb(240, 48, 160);
 }
