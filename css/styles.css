@@ -29,7 +29,11 @@
   background-attachment: fixed;
 }
 .container .section:nth-child(3) {
+<<<<<<< HEAD
   background: url('../img/i4.jpeg') no-repeat center center fixed;
+=======
+  background: url('../img/i4.jpeg');
+>>>>>>> gh-pages
   background-size: cover;
   background-attachment: fixed;
 }
@@ -96,4 +100,10 @@
 }
 .prac {
   color: rgb(240, 48, 160);
+}
+#imgTag {
+  float: right;
+  padding: 5px;
+  width: 150px;
+  
 }
