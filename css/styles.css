@@ -97,3 +97,9 @@
 .prac {
   color: rgb(240, 48, 160);
 }
+#imgTag {
+  float: right;
+  padding: 5px;
+  width: 150px;
+  
+}
